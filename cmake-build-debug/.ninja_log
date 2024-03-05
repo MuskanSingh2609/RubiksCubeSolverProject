@@ -1,0 +1,4 @@
+# ninja log v5
+1	701	7313214800020786	CMakeFiles/RubiksCubeSolverProject.dir/main.cpp.obj	8edd72140a0cc362
+11	1579	7313214808815106	CMakeFiles/RubiksCubeSolverProject.dir/Model/GenericRubiksCube.cpp.obj	be4173610b7da036
+1580	1740	7313214810397661	RubiksCubeSolverProject.exe	bc127abf3a3cb0bc
